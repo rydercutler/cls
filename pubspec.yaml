@@ -6,6 +6,3 @@ Description: List files in a directory.
 
 envioronment:
   sdk: '>=2.6.0 <3.0.0'
-
-dependencies:
-  args: ^1.5.0

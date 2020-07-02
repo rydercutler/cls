@@ -2,18 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "args",
-      "rootUri": "file:///home/ryder/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.3"
-    },
-    {
       "name": "cls",
       "rootUri": "../",
       "packageUri": "lib/"
     }
   ],
-  "generated": "2020-07-02T08:34:00.858750Z",
+  "generated": "2020-07-02T08:39:50.374819Z",
   "generator": "pub",
   "generatorVersion": "2.8.4"
 }
