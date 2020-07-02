@@ -4,10 +4,11 @@
     {
       "name": "cls",
       "rootUri": "../",
-      "packageUri": "lib/"
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
     }
   ],
-  "generated": "2020-07-02T08:39:50.374819Z",
+  "generated": "2020-07-02T08:50:11.345801Z",
   "generator": "pub",
   "generatorVersion": "2.8.4"
 }

@@ -2,7 +2,9 @@ name: cls
 
 version: 1.0.0
 
-Description: List files in a directory.
+description: List files in a directory.
 
-envioronment:
-  sdk: '>=2.6.0 <3.0.0'
+homepage: https://github.com/clearine/cls
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
